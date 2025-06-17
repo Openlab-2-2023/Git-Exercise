@@ -48,6 +48,10 @@ section {
     margin-bottom: 20px;
     border-radius: 4px;
 }
+#kamo {
+    background-color: #e0f7fa;
+    color: #006064;
+}
 
 footer {
     text-align: center;
