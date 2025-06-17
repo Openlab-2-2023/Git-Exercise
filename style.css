@@ -55,3 +55,11 @@ footer {
     background-color: #eee;
     margin-top: 30px;
 }
+#meter-section {
+  background-color: lime;
+  color: pink;
+  padding: 20px;
+  border-left: 4px solid #00cc66;
+  transition: background-color 0.4s;
+}
+
