@@ -11,6 +11,7 @@ Tento projekt slúži ako základ na precvičenie práce s Gitom a GitHubom v t�
 5. V `script.js` pridaj jednoduchú interaktivitu (napr. zmena farby po kliknutí).
 6. Commitni a pushni zmeny.
 7. Otvor pull request do `main` vetvy.
+8. Sprav salto na stole
 
 ## 💡 Úloha 2: Merge konflikt
 1. Všetci študenti upravia prvź `<div class="project">` v `index.html` na niečo vlastné.

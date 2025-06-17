@@ -55,3 +55,10 @@ footer {
     background-color: #eee;
     margin-top: 30px;
 }
+#milan-section {
+  background-color: #e6ffe6;
+  color: #222;
+  padding: 20px;
+  border-left: 4px solid #00cc66;
+  transition: background-color 0.4s;
+}
