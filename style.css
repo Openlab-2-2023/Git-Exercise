@@ -48,6 +48,19 @@ section {
     margin-bottom: 20px;
     border-radius: 4px;
 }
+.project_m {
+    background-color: #e3fde9;
+    padding: 15px;
+    border-left: 5px solid #21f34f;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    
+}
+.active {
+    border-left: 5px solid #f32121;
+    background-color: #fde3e3;
+
+}
 
 footer {
     text-align: center;
