@@ -39,6 +39,7 @@ main {
 
 section {
     margin-bottom: 40px;
+    background-color: aqua;
 }
 
 .project {
@@ -54,4 +55,9 @@ footer {
     padding: 15px;
     background-color: #eee;
     margin-top: 30px;
+}
+
+#gg{
+    width: 128px;
+    height: 90px;
 }
