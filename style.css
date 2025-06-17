@@ -41,6 +41,16 @@ section {
     margin-bottom: 40px;
 }
 
+
+#about-me {
+    background-color: #f0cf9d; 
+    color: #20007e; 
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(75, 0, 130, 0.3);
+}
+
+
 .project {
     background-color: #e3f2fd;
     padding: 15px;
@@ -54,4 +64,11 @@ footer {
     padding: 15px;
     background-color: #eee;
     margin-top: 30px;
+}
+#milan-section {
+  background-color: #e6ffe6;
+  color: #222;
+  padding: 20px;
+  border-left: 4px solid #00cc66;
+  transition: background-color 0.4s;
 }

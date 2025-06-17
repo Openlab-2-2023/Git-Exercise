@@ -11,11 +11,12 @@ Tento projekt slúži ako základ na precvičenie práce s Gitom a GitHubom v t�
 5. V `script.js` pridaj jednoduchú interaktivitu (napr. zmena farby po kliknutí).
 6. Commitni a pushni zmeny.
 7. Otvor pull request do `main` vetvy.
+8. Sprav salto na stole
 
 ## 💡 Úloha 2: Merge konflikt
-1. Všetci študenti upravia prvź `<div class="project">` v `index.html` na niečo vlastné.
-2. Commitni zmeny v novej vetve (`feature-<meno>-conflict`).
-3. Vytvor pull request do `main`.
+1. Vytvor novu vetvu (`feature-<meno>-conflict`) z vetvy (`main-merge`).
+2. Všetci študenti upravia prvý `<div class="project">` v `index.html` na niečo vlastné.
+3. Vytvor pull request do `main-merge`.
 4. Prvý, kto mergne, bude v poriadku. Ostatní budú mať **merge conflict**.
 5. Vyrieš konflikt ručne a dokonči merge.
 
