@@ -7,3 +7,6 @@ document.querySelector('h1').addEventListener('click', function() {
         this.style.color = 'red';
     }
 });
+document.getElementById("milan-section").addEventListener("click", function () {
+  this.style.backgroundColor = "#ccffcc";
+});
