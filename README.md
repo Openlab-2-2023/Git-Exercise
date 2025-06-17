@@ -14,7 +14,7 @@ Tento projekt slúži ako základ na precvičenie práce s Gitom a GitHubom v t�
 
 ## 💡 Úloha 2: Merge konflikt
 1. Všetci študenti upravia prvź `<div class="project">` v `index.html` na niečo vlastné.
-2. Commitni zmeny v novej vetve (`feature-<meno>-conflict`).
+2. Commitni zmeny v novej vetve (`feature-merge-conflict`).
 3. Vytvor pull request do `main`.
 4. Prvý, kto mergne, bude v poriadku. Ostatní budú mať **merge conflict**.
 5. Vyrieš konflikt ručne a dokonči merge.
